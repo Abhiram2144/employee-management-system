@@ -1,3 +1,7 @@
+# About this project:
+
+This is a normal React based project, where I created a employee-management system using React Hooks. This project is simple because I didn't use mongodb or any  other database to store the data into the database. This is just a front-end part on how we show the data on the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
